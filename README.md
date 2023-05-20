@@ -46,4 +46,4 @@ python reminder_email_script.py
 ## License:
 This script is licensed under the [MIT License](LICENSE). Feel free to modify and use it according to your needs.
 
-For any questions or issues, please contact [your-email@example.com].
+For any questions or issues, please contact sakhilembane2@gmail.com.
